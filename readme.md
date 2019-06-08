@@ -2,4 +2,4 @@
 
 Esta saga de libros cuentan la historia de un Hacker excepcional.
 
-**Esteban Corral** GIT FAN
+**Esteban Corral**, Git & Larry Plotter Fan
